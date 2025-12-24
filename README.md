@@ -1,7 +1,7 @@
 # Milad Zarein
 
 Backend Developer specialized in Django & DRF  
-Interested in Security, Linux, Quantum Computing, and Machine Learning
+Interested in Linux, Quantum Computing, and Machine Learning
 
 GitHub: https://github.com/miladzarein
 
